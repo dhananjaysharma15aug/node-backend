@@ -1,0 +1,17 @@
+{
+  "name": "node-backend-project",
+  "version": "1.0.0",
+  "description": "a backend for learning backend in js",
+  "keywords": [
+    "javascript",
+    "backend",
+    "learning"
+  ],
+  "license": "ISC",
+  "author": "dhananjay sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
